@@ -1,0 +1,64 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.TA9290CCP6" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.Forms.Labs/Services/Media/MediaStorageOptions.cs">
+    <Files>
+      <File FileName="Xamarin.Forms.Labs.Droid/Services/Media/MediaPicker.cs" Line="31" Column="31" />
+      <File FileName="../XLabs/Serialization/XLabs.Serialization/IByteSerializer.cs" Line="1" Column="1" />
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample.Droid/app.config" Line="1" Column="1" />
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample.Droid/MainActivity.cs" Line="17" Column="17" />
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample.iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample.iOS/AppDelegate.cs" Line="4" Column="4" />
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample/Pages/Controls/CameraViewPage.xaml" Line="5" Column="5" />
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample/Pages/Services/CameraPage.xaml" Line="2" Column="2" />
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample/Pages/Services/CameraPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample/App.cs" Line="38" Column="38" />
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample/ViewModel/CameraViewModel.cs" Line="65" Column="65" />
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample/Pages/Controls/CameraViewPage.xaml.cs" Line="4" Column="4" />
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Xamarin.Forms.Labs/Mvvm/ViewModel.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Controls/CameraView.cs" Line="51" Column="51" />
+      <File FileName="Xamarin.Forms.Labs/Data/ObservableObject.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Device/IDevice.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Device/IDisplay.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Device/Orientation.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Exceptions/InvalidBindableException.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Exceptions/InvalidNestingException.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Exceptions/InvalidVisualObjectException.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Exceptions/NoDataTemplateMatchException.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Extensions/BindableObjectExtensions.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Helpers/EventArgs{T}.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Helpers/EventExtensions.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Helpers/Icons.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Helpers/TaskUtils.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Mvvm/BaseView.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Mvvm/INavigationAware.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Mvvm/IXFormsApp.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Mvvm/NavigationAwareViewModel.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Mvvm/NavigationView.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Mvvm/RelayCommand.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Mvvm/ViewFactory.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Mvvm/ViewModelNavigation.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Mvvm/XFormsApp.cs" Line="18" Column="18" />
+      <File FileName="Xamarin.Forms.Labs/Pages/ExtendedMasterDetailPage.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Services/INetwork.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Services/NetworkStatus.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Services/Media/IAudioStream.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Services/Media/IMediaPicker.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Services/Media/MediaExtensions.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Services/Media/MediaFile.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Services/Media/MediaFileNoteFoundException.cs" Line="39" Column="39" />
+      <File FileName="Xamarin.Forms.Labs/Services/Media/MediaStorageOptions.cs" Line="23" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/confiz-2334/Downloads/Xamarin-Forms-Labs-master/src/Xamarin.Forms.Labs/Xamarin.Forms.Labs.iOS/Services/Media/MediaPickerDelegate.cs" line="240" column="1" />
+      <Breakpoint file="/Users/confiz-2334/Downloads/Xamarin-Forms-Labs-master/src/Xamarin.Forms.Labs/Xamarin.Forms.Labs.iOS/Services/Media/MediaPicker.cs" line="161" column="1" />
+      <Breakpoint file="/Users/confiz-2334/Downloads/Xamarin-Forms-Labs-master/src/Xamarin.Forms.Labs/Xamarin.Forms.Labs.iOS/Services/Media/MediaPicker.cs" line="155" column="1" />
+      <Breakpoint file="/Users/confiz-2334/Downloads/Xamarin-Forms-Labs-master/src/Xamarin.Forms.Labs/Xamarin.Forms.Labs.iOS/Services/Media/MediaPicker.cs" line="158" column="1" />
+      <Breakpoint file="/Users/confiz-2334/Downloads/Xamarin-Forms-Labs-master/src/Xamarin.Forms.Labs/Xamarin.Forms.Labs.iOS/Services/Media/ELCImagePickerViewController.cs" line="67" column="1" />
+      <Breakpoint file="/Users/confiz-2334/Downloads/Xamarin-Forms-Labs-master/src/Xamarin.Forms.Labs/Xamarin.Forms.Labs.iOS/Services/Media/ELCImagePickerViewController.cs" line="86" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

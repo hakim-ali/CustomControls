@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.TA9290CCP6" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../samples/Xamarin.Forms.Labs.Sample/Pages/Services/CameraPage.xaml.cs">
+    <Files>
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample/Pages/Controls/CameraViewPage.xaml" Line="41" Column="41" />
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample/Pages/Services/CameraPage.xaml" Line="29" Column="29" />
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample/Pages/Controls/CameraViewPage.xaml.cs" Line="29" Column="29" />
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample/App.cs" Line="1" Column="1" />
+      <File FileName="../../samples/Xamarin.Forms.Labs.Sample/Pages/Services/CameraPage.xaml.cs" Line="29" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/confiz-2334/Downloads/Xamarin-Forms-Labs-master/src/Xamarin.Forms.Labs/Xamarin.Forms.Labs.iOS/Services/Media/MediaPickerDelegate.cs" line="241" column="1" />
+      <Breakpoint file="/Users/confiz-2334/Downloads/Xamarin-Forms-Labs-master/src/Xamarin.Forms.Labs/Xamarin.Forms.Labs.iOS/Services/Media/MediaPicker.cs" line="161" column="1" />
+      <Breakpoint file="/Users/confiz-2334/Downloads/Xamarin-Forms-Labs-master/src/Xamarin.Forms.Labs/Xamarin.Forms.Labs.iOS/Services/Media/MediaPicker.cs" line="155" column="1" />
+      <Breakpoint file="/Users/confiz-2334/Downloads/Xamarin-Forms-Labs-master/src/Xamarin.Forms.Labs/Xamarin.Forms.Labs.iOS/Services/Media/MediaPicker.cs" line="158" column="1" />
+      <Breakpoint file="/Users/confiz-2334/Downloads/Xamarin-Forms-Labs-master/src/Xamarin.Forms.Labs/Xamarin.Forms.Labs.iOS/Services/Media/ELCImagePickerViewController.cs" line="68" column="1" />
+      <Breakpoint file="/Users/confiz-2334/Downloads/Xamarin-Forms-Labs-master/src/Xamarin.Forms.Labs/Xamarin.Forms.Labs.iOS/Services/Media/ELCImagePickerViewController.cs" line="87" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
